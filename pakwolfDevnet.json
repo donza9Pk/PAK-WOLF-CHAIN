@@ -1,0 +1,14 @@
+{
+  "l1ChainID": 97,
+  "l2ChainID": 20269,
+  "l2BlockTime": 1,
+  "finalizationPeriodSeconds": 12,
+  "gasPriceOracleOverhead": 0,
+  "gasPriceOracleScalar": 1000,
+  "eip1559Denominator": 50,
+  "eip1559Elasticity": 6,
+  "nativeTokenName": "Pak Wolf",
+  "nativeTokenSymbol": "PKW",
+  "empireWhitelistGasPrice": 0,
+  "userBaseFeeGwei": 1
+}
