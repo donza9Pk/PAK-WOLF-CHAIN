@@ -1,14 +1,13 @@
 {
-  "l1ChainID": 97,
-  "l2ChainID": 20269,
-  "l2BlockTime": 1,
-  "finalizationPeriodSeconds": 12,
-  "gasPriceOracleOverhead": 0,
-  "gasPriceOracleScalar": 1000,
-  "eip1559Denominator": 50,
-  "eip1559Elasticity": 6,
-  "nativeTokenName": "Pak Wolf",
-  "nativeTokenSymbol": "PKW",
-  "empireWhitelistGasPrice": 0,
-  "userBaseFeeGwei": 1
+  "name": "PAK WOLF CHAIN",
+  "chain": "PKW",
+  "icon": "pkwolf",
+  "rpc": ["https://pkwolf.is-a.dev"],
+  "faucets": [],
+  "nativeCurrency": { "name": "PKW", "symbol": "PKW", "decimals": 18 },
+  "infoURL": "https://donza9pk.github.io/PAK-WOLF-CHAIN/",
+  "shortName": "pkwolf",
+  "chainId": 20269,
+  "networkId": 20269,
+  "explorers": []
 }
